@@ -1,0 +1,17 @@
+.singleItem div {
+  width: 25%;
+  display: inline-block;
+  text-align: left;
+}
+
+.singleItem button {
+  margin: 0 5px;
+}
+
+.singleItem div.actions {
+  width: 50%;
+}
+
+button {
+  cursor: pointer;
+}
