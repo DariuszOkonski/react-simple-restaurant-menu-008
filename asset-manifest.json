@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-simple-restaurant-menu-008/static/css/main.59d3fc70.chunk.css",
+    "main.css": "/react-simple-restaurant-menu-008/static/css/main.dcc17535.chunk.css",
     "main.js": "/react-simple-restaurant-menu-008/static/js/main.dcc1e81a.chunk.js",
     "main.js.map": "/react-simple-restaurant-menu-008/static/js/main.dcc1e81a.chunk.js.map",
     "runtime~main.js": "/react-simple-restaurant-menu-008/static/js/runtime~main.581f3c9f.js",
@@ -8,8 +8,8 @@
     "static/js/2.d6a534e5.chunk.js": "/react-simple-restaurant-menu-008/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/react-simple-restaurant-menu-008/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/react-simple-restaurant-menu-008/index.html",
-    "precache-manifest.5da8867586dcee1b79f67ebbcaacd09f.js": "/react-simple-restaurant-menu-008/precache-manifest.5da8867586dcee1b79f67ebbcaacd09f.js",
+    "precache-manifest.4450a313459825d96aa8d2813a5e8d0d.js": "/react-simple-restaurant-menu-008/precache-manifest.4450a313459825d96aa8d2813a5e8d0d.js",
     "service-worker.js": "/react-simple-restaurant-menu-008/service-worker.js",
-    "static/css/main.59d3fc70.chunk.css.map": "/react-simple-restaurant-menu-008/static/css/main.59d3fc70.chunk.css.map"
+    "static/css/main.dcc17535.chunk.css.map": "/react-simple-restaurant-menu-008/static/css/main.dcc17535.chunk.css.map"
   }
 }
